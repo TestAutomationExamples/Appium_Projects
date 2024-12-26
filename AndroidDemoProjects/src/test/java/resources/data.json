@@ -1,0 +1,13 @@
+{
+  "Capabilities": {
+    "platformName":"Android",
+    "deviceName":"vivo V2334",
+    "appPackage":"com.android.dialer",
+    "appActivity":"com.android.dialer.TwelveKeyDialer",
+    "automationName":"UiAutomator2",
+    "appiumServerUrl":"http://127.0.0.1:4723"
+  },
+  "PhoneNumber":"8197554970"
+}
+
+
